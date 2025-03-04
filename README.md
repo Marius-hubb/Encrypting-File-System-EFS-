@@ -7,7 +7,7 @@
 
 This lab will demonstrate how to perform system-level encryption on Windows using the following:<br/>
 
-- File encryption with EFS using Command Prompt
+- File encryption with Encryption File System (EFS) using Command Prompt
 - Enable EFS using advanced attributes in a selected file/folder
 
 <h2>Lab Walk Through</h2>
