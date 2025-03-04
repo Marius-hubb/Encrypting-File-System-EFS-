@@ -14,5 +14,9 @@ This lab will demonstrate how to perform system-level encryption on Windows usin
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/YxsE278.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cHKvRI1.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/3Z6KkK5.png" height="50%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
